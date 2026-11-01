@@ -22,6 +22,10 @@
 ```
 
 <p align="center">
+  <img src="assets/chiikawa.gif" alt="Chiikawa characters enjoying a snack" width="498" />
+</p>
+
+<p align="center">
   <strong>Hey, I'm PoiCat!</strong><br />
   Welcome to my little corner of GitHub. Take a look around!
 </p>
