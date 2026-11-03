@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/rainforest.gif" alt="Animated ASCII art of a rainforest waterfall" width="800" />
+</p>
+
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⣿⣿⣿⣿⠀⣿⣿⣿⣿⣿⠀⠀⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
